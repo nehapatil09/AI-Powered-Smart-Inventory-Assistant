@@ -1,0 +1,11 @@
+date,product_id,product_name,quantity_sold
+13/07,1,Milk,30
+13/07,2,Flour,20
+13/07,3,Sugar,65
+13/07,4,Curd,10
+13/07,5,Bread,10
+13/07,6,Biscuit,35
+13/07,7,Cold drinks,10
+13/07,3,Sugar,5
+13/07,6,Biscuit,5
+13/07,7,Cold drinks,10
